@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oh ye heads of the nation who are set in the supream authority thereof, and are at this time assembled in Parliament hear ye the word of the Lord, as it came unto me the sixth day of the fifth moneth of this present year, concerning you / by Ambr. Rigg.</title>
+            <author>Rigge, Ambrose, 1635?-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57305</idno>
+            <idno type="STC">Wing R1487</idno>
+            <idno type="STC">ESTC R9222</idno>
+            <idno type="EEBO-CITATION">11906250</idno>
+            <idno type="OCLC">ocm 11906250</idno>
+            <idno type="VID">50682</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57305)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50682)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 821:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Oh ye heads of the nation who are set in the supream authority thereof, and are at this time assembled in Parliament hear ye the word of the Lord, as it came unto me the sixth day of the fifth moneth of this present year, concerning you / by Ambr. Rigg.</title>
+                  <author>Rigge, Ambrose, 1635?-1705.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Political activity --  Great Britain.</term>
+               <term>Nationalism --  Religious aspects.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50682:1"/>
+            <pb facs="tcp:50682:1" rendition="simple:additions"/>
+            <p>
+               <hi>OH YE HEADS</hi> OF THE NATION Who are ſet in the SVPREAM AVTHORITY Thereof, and are at this time Aſſembled in PARLIAMENT, Hear ye the Word of the Lord, as it came unto me the ſixth day of the fifth Moneth of this pre<g ref="char:EOLhyphen"/>ſent year, concerning you.</p>
+            <p>By <hi>AMBR. RIGG.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons</hi> at the <hi>Bull</hi> and <hi>Mouth</hi> near <hi>Alderſgate,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:50682:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:50682:2" rendition="simple:additions"/>
+            <p>THE Lord God Almighty of heaven and earth who reigns on high by his power and ſtrength, whoſe mer<g ref="char:EOLhyphen"/>cy endures for ever<g ref="char:punc">▪</g> 
+               <hi>Hath now ſo loved the world that he hath ſent his onely begotten Son out</hi> of his own boſom for <hi>a light into the world, that whoſoever will receive, be<g ref="char:EOLhyphen"/>lieve and follow him ſhall not periſh but have everlaſting life.</hi>
+            </p>
+            <p>Now it being the good pleaſure of his heavenly will, firſt to viſit theſe three Nations of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and to <hi>ſend his Son into them to ſeek and ſearch out his ſheep,</hi> (according to his promiſe made of old, <hi>Ezek.</hi> 34.) and to gather them from the mouthes of the <hi>Idol dumb ſhepherds that hath made a prey upon them,</hi> which work is already begun, and many are gathered by his right hand <hi>into his Covenant of life, and are taught of him, and establiſhed in his righteouſneſs, againſt whom no weapon formed ſhall ever pro<g ref="char:EOLhyphen"/>ſper,</hi> for whoſe ſake the imediate hand of Gods eternal power hath been often ſeen to be ſtretched forth againſt his and their enemies (in divers manner of wayes) who would not let <hi>his Seed</hi> go free to offer to him <hi>a ſacrifice in righteouſneſs</hi> but laid <hi>heavy bur<g ref="char:EOLhyphen"/>thens</hi> upon his people which they have long groaned under, and their oppreſſors were often warned as <hi>Pharaoh</hi> was by <hi>Moſes</hi> be<g ref="char:EOLhyphen"/>fore Gods judgement came upon them, but when they ſtill ſtop<g ref="char:EOLhyphen"/>ped their ears and hardened their hearts from hearing the cry of the oppreſſed, then did the <hi>Seed</hi> cry unto the Lord, whoſe com<g ref="char:EOLhyphen"/>plaint he hath heard, and for its ſake hath mightily appeared again and again, and hath rebuked and overturned Protectors, Counſels and Parliaments that he might bring to paſſe his noble acts which he promiſed to perform in the dayes of old by the mouthes of his ſervants the Prophets; ſo let your ears be open if you do intend to ſtand.</p>
+            <p>And them which he hath called and choſen in theſe three Nati<g ref="char:EOLhyphen"/>ons of <hi>England, Scotland</hi> and <hi>Ireland</hi> within this late years hath not been wanting to lay before Protector and Parliament (who then had the power in their hands the grievous &amp; cruel <hi>yoke of bondage</hi> which they were held under by the ſeed of evil doers (<hi>viz.</hi> Prieſts and Lawyers) who had power given from them to lay more grie<g ref="char:EOLhyphen"/>vous burthens upon the choſen of God then all the oppreſſors that ever was read of before<g ref="char:punc">▪</g> except the blood ſuckers in Queen <hi>Maries</hi>
+               <pb n="4" facs="tcp:50682:3"/>
+dayes, yea the Prieſts under a colour of Law from Protector and Parliament hath far exceeded all the falſe Prophets that ever was heard of before them, in cruelty, tyrany and oppreſſion, the which cannot be paralell'd; which I hope you who now fits at the Sterne of theſe Nations are not ignorant of, therefore did the Lord ſuddenly appear, (even when Protector, Parliament and Prieſt had joyned together <hi>to take Counſel againſt the Lord and his anoint<g ref="char:EOLhyphen"/>ed</hi>) and in a ſhort time rebuked and overturned them and their Counſels <hi>who ſtopped their ears at the cry of the oppreſſed, and would not regard the choſen of the Lord whom he ſent often to them to try their hearts and to warn them in love and tenderneſs while the power was in their hands to take off the oppreſſion and exactions from his people,</hi> but when they had refuſed time after time, the Lord ſcattered them as chaff, and daſhed all their glory in one day, by bringing to nought all their Counſels which was not right in his ſight; and all this hath been done by his right hand <hi>for the eſtabliſhing of righ<g ref="char:EOLhyphen"/>teouſneſs in the land, and for the preſervation of his choſen ones whom the gates of hell ſhall not prevail against.</hi>
+            </p>
+            <p>Thereſore now be awakened and warned all you unto whom the government of theſe Nations is now committed, let the dread and fear of God be upon every one of you with whom there is no reſpect of perſons or taking of gifts, take heed, oh take heed how you tread in the ſteps of them that are gone before, for know aſſuredly that God will not paſſe by that in you which he hath condemned in them before you; therefore hath God choſen you, <hi>to try your hearts</hi> alſo, whether they be right in his ſight, which if they ſo be found, he will bleſſe and proſper you in whatſoever you take in hand, and your enemies ſhall dread before you, and ſhall not be able to gainſay nor withſtand you, but all their Counſels and plottings againſt you ſhall be ſuddenly confounded <hi>and the Lord will crown you with dominion over all your enemies.</hi>
+            </p>
+            <p>So let this ſuffice you, oh ye Princes of <hi>England,</hi> remove vio<g ref="char:EOLhyphen"/>lence and ſpoil, and take the exactions from the people of God, <hi>and fear not man whoſe breath is in his noſtrils, for the earth is filled with violence and grievous ſpoilers is, and hath been in the Land, who hath not ſpared the flock of God, yea they who have reproved ſin in the gate hath been greatly made a prey upon by them who are inwardly rávening wolves.</hi>
+            </p>
+            <p>
+               <pb n="5" facs="tcp:50682:3"/>Now if theſe things be not removed by you (who now hath power in your hands) the Lord remove you and over<g ref="char:EOLhyphen"/>turn you as: he hath done them before you; <hi>for a ſhort work in the earth will the Lord now make and will overturn, overturn all, till he come to reign whoſe right it is, who will break every yoke from every neck and relieve the oppreſſed;</hi> for beſides many great oppreſſions in this Land, the oppreſſion of Tythe is the moſt cruel and Anti<g ref="char:EOLhyphen"/>chriſtian, eſpecially to them that profeſſes to live under the Goſpel; what a violence and ſpoil hath been in this Land within this few years by upholding that oppreſſion? how hath the ravening wolves made a prey upon the Lambs of Chriſt who for conſcience ſake could not uphold that cruel oppreſſion of Tythe? which all the Prieſts in <hi>England</hi> is never able to prove by Scripture that ever Tythe was due to the Miniſters of the Goſpel by the Law of God; for within this late dayes I had a meeting with ſome of the higheſt of them, and it was deſired of me and ſeveral hundreds of the free born people of <hi>England,</hi> that they would prove by Scripture <hi>that Tythe was due to the Miniſters of the Goſpel by the Law of God, and Tythe ſhould be payed unto them without any further ado, but this they were</hi> not able to do, but laid aſide the Scripture and the Law of God, and fled to the powers of the earth, ſaying, <hi>that it was confirmed by ſo many Parliaments from age to age, and ſo it was be<g ref="char:EOLhyphen"/>come a cuſtome;</hi> this is the Prieſts plea, when they have no Scripture to uphold their Autichriſtian practices, which the Lords hand is againſt, they make the Parliaments a cloak for their wickedneſs; but take heed, I warn you who now are aſſembled in Parliament, how this is covered any longer by you, <hi>for they that cover iniquity ſhall not proſper, and he that ſeeth evil and conſenteth to it, ſhall be con<g ref="char:EOLhyphen"/>founded and brought to ſhame.</hi>
+            </p>
+            <p>So beware how this iniquity is <hi>countenanced</hi> by you; let not the falſe Prophets make you their cloak for their coveteous practices, for I believe there is few ſo blind but they ſee <hi>tythes Antichristian under the administration of the Goſpel,</hi> unleſs it be the blind guides whoſe mouth is put into; yea, many of them dare not to ſay that it is according to the Law of God, though for a long time they affirmed it was, but now it begins to be ſo mani<g ref="char:EOLhyphen"/>feſt to all, that they are aſhamed of that, and ſaith <hi>it is given them by act of Parliament;</hi> oh<g ref="char:punc">▪</g> away with this mire and filth, throw it out of your houſe, leaſt it bring a curſe upon you and your poſte<g ref="char:EOLhyphen"/>ritie for ever.</p>
+            <p>
+               <pb n="6" facs="tcp:50682:4"/>For <hi>the ſpirit of the Lord will not always ſtrive with you, nor the mouths of his meſsengers alwayes be opened to warn you,</hi> but the time cometh ſuddainly (If you will not hear and lay theſe things to heart to relieve the oppreſſed) that you ſhall ſay, <hi>Bleſsed is he that cometh in the name of the Lord,</hi> and this is the word of the Lord unto you all.</p>
+            <p>And furthermore what a talk hath been, and care been taken <hi>for maintaining of godly and painful Ministers,</hi> which if it had been ſo indeed, it had been well, but the contrary is much manifeſt<g ref="char:EOLhyphen"/>ed, as concerning godlineſs; if it be the Prieſts that preach for hire, that is meant, their own mouths (within theſe late dayes) hath made them all Lyars who calls them godly, <hi>For they have con<g ref="char:EOLhyphen"/>feſsed themſelves to be wicked and ungodly in the hearing of many peo<g ref="char:EOLhyphen"/>ple, and that the very ſins of their prayers were able to bring the judge<g ref="char:EOLhyphen"/>ments of God upon this Nation;</hi> this was at one of their faſts for the violation of times, as they ſaid, and confeſſed themſelves, <hi>That they came together to pray againſt ſin, with as bad hearts as they did commit it, and ſpake againſt the preſent powers,</hi> and ſaid, <hi>they tolle<g ref="char:EOLhyphen"/>rated deceivers,</hi> and prayed <hi>to put a curb in their noſtrils,</hi> and much more of their filthy ſtuffe, which is too tedious to mention. Now if theſe and ſuch like be called godly Miniſters, who then is wic<g ref="char:EOLhyphen"/>ked and ungodly? let the witneſs of God in all conſciences judge.</p>
+            <p>And it is not an unknown to many thouſands of the good peo<g ref="char:EOLhyphen"/>ple of this <hi>Commonwealth,</hi> the <hi>covetous practices,</hi> and <hi>ungodly deeds</hi> of theſe and ſuch like, that is, and hath been called <hi>godly Miniſters,</hi> how that they have cauſed many to err by their unſavoury con<g ref="char:EOLhyphen"/>verſation and unholy walking, living in all manner of Iacivouſ<g ref="char:EOLhyphen"/>neſs, ſo that none is able to turn from the evil of their ways. Oh conſider of it and lay it to heart, <hi>For the cry of the oppreſſed is great;</hi> my ſoul is even loaded and oppreſſed to hear it, how great is the complaint in every Town and City of the hireling Prieſts by all ſorts of people? yet they that work ſo much wic<g ref="char:EOLhyphen"/>kedneſs is ſet up and called godly Miniſters, when their daily practice ſhews the contrary to all that is not wilſully blind; and I believe ſome of you are not ignorant, <hi>How that within theſe late days ſuch were joyned together with the powers of the earth to bring the Nation into miſery and ſlavery, if the Lord bad not mightily appeared, and ſuddainly confounded their counſels</hi> (for his choſens ſake.) <hi>and <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>tered the wicked as chaff;</hi> and ſhall ſuch always be ſet up and
+<pb n="7" facs="tcp:50682:4"/>
+called godly Miniſters, and be maintained in deceit and wicked<g ref="char:EOLhyphen"/>neſs? Oh I warn you once again to take heed what you do in this thing; For <hi>the Lord will not alwayes be mocked, nor ſuffer the oppreſ<g ref="char:EOLhyphen"/>ſed alwayes to cry unto him and not lend his ear unto them.</hi>
+            </p>
+            <p>Will not theſe company of Prieſts come cringing and bowing to you now for their bellies, which is their god, and flatter you as they have done them before you? and if you lend your car un<g ref="char:EOLhyphen"/>to them, <hi>they will lead you to deſtruction as they have done many be<g ref="char:EOLhyphen"/>fore you;</hi> therefore let them he called together and proved by the Scripture, whether they be <hi>godly</hi> or no before us and you, and tried as <hi>Baals</hi> Prieſts were, and if they ſo be found in the doctrine of Chriſt, they will be content with the ſame wages, which they who were ſent forth by Chriſt had, which I hope none that fears God will deny; but if they be found contrary to the doctrine, and out of the true Apoſtles practice (as their daily practice ma<g ref="char:EOLhyphen"/>nifeſts) then let them be teſtified againſt and denyed of all, <hi>Leaſt Gods judgement come upon this Land becauſe of the iniquity of Prieſts and people, for the land is almost full of adulterers, and becauſe of oaths the land mourns, and the pleaſant places is dryed up;</hi> For that which formerly was in a meaſure deſt oyed is now beginning to be ſet up again, both by Prieſts and people; as <hi>Herbert Morley</hi> one of the Rulers in the County of <hi>Suſsex,</hi> profeſſed openly upon the bench in <hi>Lewis, That he had rather that Prelacy were up again then that the truth ſhould appear,</hi> which he called bables; this was ſpo<g ref="char:EOLhyphen"/>ken in the hearing of many witneſſes: And <hi>John Fagg</hi> another of the Rulers of that County (who formerly in the appearance ſtood for the Nations freedome from Kingly power) hath been known (within this late years) to have <hi>Cavaliers often to reſort to his houſe to gaming and ſporting and Hunting, and feasting, and rioting in the time called Chriſtmas,</hi> which formerly was denyed, this may be witneſſed by good teſtimony, which if theſe (and more which might be mentioned) go on, the Nations will ſoon be brought to miſery; therefore look about you while you have time, for they are not your greateſt enemies that deals moſt plainly with you, <hi>The Lord give you an underſtanding to know the truth, and your friends from your foes.</hi>
+            </p>
+            <p>Another Prieſt whoſe name is <hi>Robert Baker</hi> of <hi>Rottingden</hi> in <hi>Suſſex</hi> who hath received hire of that people near this thirty years, ſaid in the Pulpit within this late dayes in the hearing of ſeveral witneſſes, <hi>That he and his hearers were worſe then the damned ſpirits
+<pb facs="tcp:50682:5"/>
+that now lay roaring and yelling in Hell, and that their ſins did exceed many of theirs that were now in infernal miſery, and ſaid that they were fruitleſs trees<g ref="char:punc">▪</g>
+               </hi> yet not with ſtanding, he the ſaid <hi>Baker</hi> hath from year to year taken the peoples money, and hath not profited them at all, yet he is ſet up and called <hi>a godly Miniſter</hi> amongſt the reſt, and had power given him within this late days to take twelve Oken, ſix Cows and a Boll, worth near an hundred and twenty pounds for one years Tythe of land, that the rent of that land is about an hundred pounds <hi>per annum</hi> from a friend, whoſe name is <hi>Nicholas Beard,</hi> and returned nothing again.</p>
+            <p>Will not the cry of this and ſuch like cruelty reach to heaven? <hi>Surely the Lord will viſite for theſe things, and his ſoul will be aven<g ref="char:EOLhyphen"/>ged on ſuch a Nation as this; Was not Zion ploughed as a field? And did not Jeruſalem become on heapes becauſe of theſe things?</hi> Was ever any Nation ſo deeply involved in iniquitie by a company of hire<g ref="char:EOLhyphen"/>ling Prieſts, as this Nation? and yet theſe go under the Sheeps cover<g ref="char:EOLhyphen"/>ing and are called godly Miniſters, Oh read the Scriptures and be not wilſully blinde, leaſt it be ſaid of <hi>England</hi> as it was of <hi>Jeruſa<g ref="char:EOLhyphen"/>lem, Oh how often would I have gathered thy children together, as a Hen gathereth her chickins under her wings</hi> (mark under her wings) <hi>but ye would not; therefore ſhall your enemies caſt a trench about you and compaſs you on every ſide, becauſe you have diſpiſed the day of your viſitation, and rejected the counſel of God to your own deſtruction.</hi>
+            </p>
+            <p>Therefore with ſpeed, <hi>Let all grievances be removed, and ſet men over the people that will execute judgement in the gate, that the land may be cleanſed of evil doers, and lend your ear and ſhew mercy to the poor and oppreſſed, who hath long laid under the heavy yoke of bondage; for if you ſuffer that oppreſſion to ſtand in the land, for which God overturned them bofore you, the Lord will overturn you likewiſe.</hi>
+            </p>
+            <p>So that which will make you truely honorable and truly noble, is to ſearch out every matter of wrong, without reſpect to any perſon, and to re<g ref="char:EOLhyphen"/>gulate theſe things which hath long been amiſs, and to be a terror to all evil doers whatſoever; and to ſet over the people men to rule that truely fears. God and hates covetouſneſs, that they may rule for God and not wholly for man, as it hath been this many years; for gifts and rewards hath blinded both. Prieſt, Lawyers and people, and hath perverted the way of the juſt which hath kindled the indignation of God againſt this land, which cannot be quenched until the ſtreams of righteouſneſs and true judgement run down this Land; ſo while you have time and power in your hands, conſider of the oregoing lines which is written in true and perfect love to the ſeed of God in you all;</p>
+            <byline>By a friend of the Commonwealth of <hi>England</hi> called <hi>A. R.</hi>
+            </byline>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:50682:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
